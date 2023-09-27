@@ -1,4 +1,4 @@
-﻿using AgendaDeContactos.Proyecto.Entities;
+﻿using AgendaDeContactos.Proyecto.Data.Entities;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Reflection.Emit;
